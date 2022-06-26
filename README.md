@@ -5,14 +5,10 @@
 <p>Hello World, I am Raphael Freitas</p>
 
 <br>
-
 <hr>
-
 <br>
 
-<details>
-  <summary><b>Projects</b></summary>
-  <p>
+## Projects
   
     * Itau
     * Santander
@@ -20,16 +16,8 @@
     * Itau
     * Netshoes
     * Accenture
-  </p>
 
-</details>
-
-
-
-<details>
-  <summary><b>Tecnologies</b></summary>
-
-  <br>
+## Tecnologies
 
   | Usability | Technologies | 
   | :---: | :---: |
@@ -39,27 +27,14 @@
   | <b> C# </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> |
   | <b> Mobile Dev </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">|
   | <b> Database </b> |<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png">|
-</details>
 
-<details>
-  <summary><b>Github Stats</b></summary>
-  <p>
+
+## Github Stats
 
   | Language | Stats |
   | --- | --- |
   | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
-
-  </p>
-  </details>
-
   
 
-<details>
-  <summary><b>Contact me</b></summary>
-  <p>
-
+## Contact me
   [![Linkedin: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/)](https://www.linkedin.com/in/raphael-freitas-santos/)
-  
-  </p>
-</details>
-
