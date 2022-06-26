@@ -1,4 +1,4 @@
-# Raphael Freitas - [ DRAFT PROFILE ]
+# [ DRAFT PROFILE ] Raphael Freitas - Tech Manager 🤓
 
 ## Some technologies that i can get by 
 
