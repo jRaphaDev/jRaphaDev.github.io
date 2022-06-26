@@ -21,6 +21,7 @@
     * Netshoes
     * Accenture
   </p>
+
 </details>
 
 
@@ -51,7 +52,14 @@
   </p>
   </details>
 
+  
+
 <details>
   <summary><b>Contact me</b></summary>
-  <p></p>
+  <p>
+
+  [![Linkedin: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/)](https://www.linkedin.com/in/raphael-freitas-santos/)
+  
+  </p>
 </details>
+
