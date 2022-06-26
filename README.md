@@ -1,8 +1,25 @@
 # [ DRAFT PROFILE ] Raphael Freitas - Tech Manager 🤓
 
-  <p>About me ....</p>
+* [About Me](#about-me)
+* [Projects](#projects)
+* [Technologies](#tecnologies)
+* [Contact Me](#contact-me)
 
 <hr>
+
+## About Me
+
+Hello World, I am Raphael Freitas
+
+## Projects
+
+  * Itau
+  * Santander
+  * Safra
+  * Itau
+  * Netshoes
+  * Accenture
+
 
 ## Tecnologies
 
@@ -38,3 +55,6 @@
 | Language | Stats |
 | --- | --- |
 | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
+
+
+## Contact Me
