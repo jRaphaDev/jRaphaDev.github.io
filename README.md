@@ -1,5 +1,7 @@
 # Raphael Freitas
 
-## Contribuições
+## Contribuições e Projetos
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jRaphaDev&theme=radical&date_format=j%20M%5B%20Y%5D&locale=pt-br&stroke=DD2727)](https://git.io/streak-stats)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
