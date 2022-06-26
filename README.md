@@ -2,8 +2,6 @@
 
 ## Some technologies that i can get by 
 
-<br>
-
 ### Version Control
 
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png">
