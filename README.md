@@ -7,9 +7,17 @@
 
 <hr>
 
-## About Me
 
-Hello World, I am Raphael Freitas
+<details>
+  <summary><b>About me</b></summary>
+  <br/>
+  <p>
+    Hello World, I am Raphael Freitas
+  </p>
+
+</details>
+
+
 
 ## Projects
 
@@ -49,6 +57,15 @@ Hello World, I am Raphael Freitas
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png">|
 
 <br>
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
 
 ## Github Stats
 
