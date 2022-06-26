@@ -37,4 +37,5 @@
   
 
 ## Contact me
-  [![Linkedin: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/)](https://www.linkedin.com/in/raphael-freitas-santos/)
+  [![Linkedin: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/)](https://www.linkedin.com/in/raphael-freitas-santos/) [![Gmail: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-white?style=flat-square&logo=Gmail&logoColor=red&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com)
+ 
