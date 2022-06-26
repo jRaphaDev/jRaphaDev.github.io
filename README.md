@@ -5,7 +5,6 @@
 <p>Hello World, I am Raphael Freitas</p>
 
 <br>
-<hr>
 <br>
 
 ## Projects
