@@ -1,4 +1,4 @@
-# [ Draft ] 🤓 Raphael Freitas 
+# [ Draft ]
 
 ## About me
 
