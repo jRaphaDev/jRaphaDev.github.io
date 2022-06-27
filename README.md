@@ -1,4 +1,4 @@
-# [ DRAFT PROFILE ] Raphael Freitas - Tech Manager 🤓
+# [ DRAFT PROFILE ] 🤓 Raphael Freitas 
 
 
 ## About me
