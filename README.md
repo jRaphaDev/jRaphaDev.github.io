@@ -14,10 +14,15 @@ Formado em análise de Sistemas e cursando MBA em Data Science e Big Data, se c
 <br>
 <hr>
 
-
 ## Projects
 
 <br>
+
+* OpenFinance - [ Banco Safra ]
+* PIX | SX - [ Banco Santander ]
+
+<br>
+<hr>
 
 ## Tecnologies
 
