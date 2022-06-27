@@ -2,7 +2,14 @@
 
 ## About me
 
-<p>Raphael Freitas</p>
+<p>
+
+Raphael Freitas atua como tech coordinator no Banco Itaú. 
+Com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribui com fortes vieses de qualidade, modernização e ownership no delivery de software. 
+Com mindset de startup desempenha um papel fundamental na experimentação de novas funcionalidades estratégicas de negócio com agilidade.
+Formado em análise de Sistemas e cursando MBA em Data Science e Big Data, se considera um lifelong learner, cultivando e propagando por onde passa o Software Craftsmanship.
+
+</p>
 
 <br>
 <hr>
