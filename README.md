@@ -31,3 +31,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992631777"/></a>
 
 </p>  
+
+<img src="./static/mimoje.png" align="right" min-width="100px" max-width="100px" width="100px" alt="Mimoje Raphael">
