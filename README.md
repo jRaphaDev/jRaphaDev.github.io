@@ -27,9 +27,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" /></a>
 
-  <a href="https://wa.me/5511992631777" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992631777"/></a>
-
 </p>  
 
 <img src="./static/mimoje.png" align="right" min-width="100px" max-width="100px" width="100px" alt="Mimoje Raphael">
