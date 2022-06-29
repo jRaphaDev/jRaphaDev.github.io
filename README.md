@@ -1,53 +1,33 @@
-# [ Draft ]
+<h1>Raphael Freitas</h1>
 
-## About me
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>
+<p align="left"> 
+    Atuando como líder (<a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Trident Carrer Model</a>) no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership na esteira de  desenvolvimento. 
+</p>
 
-Raphael Freitas atua como tech coordinator no Banco Itaú. 
-Com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribui com fortes vieses de qualidade, modernização e ownership no delivery de software. 
-Com mindset de startup desempenha um papel fundamental na experimentação de novas funcionalidades estratégicas de negócio com agilidade.
-Formado em análise de Sistemas e cursando MBA em Data Science e Big Data, se considera um lifelong learner, cultivando e propagando por onde passa o Software Craftsmanship.
+<p align="left">
+    Com mindset de startup desempenho um papel fundamental na disponibilização e experimentação de funcionalidades estratégicas de negócio com agilidade.
+    Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 
 </p>
 
-<br>
-<hr>
+<p align="left">
+  💌 Caso queira entrar em contato ou me seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
+</p>
 
-## Projects
+<p align="left">
 
-<br>
+  <a href="https://twitter.com/jraphadeveloper" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
 
-* OpenFinance - [ Banco Safra ]
-* PIX | SX - [ Banco Santander ]
+  <a href="https://www.linkedin.com/in/raphael-freitas-santos/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/" /></a>
 
-<br>
-<hr>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" /></a>
 
-## Tecnologies
+  <a href="https://wa.me/5511992631777" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992631777"/></a>
 
-  | Usability | Technologies | 
-  | :---: | :---: |
-  | <b>Version Control</b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png"> |
-  | <b> Web Dev </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447798-3c557a00-af3e-11eb-9097-15de64b078de.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"> |
-  | <b> Java and Frameworks </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117534205-b6ded200-aff0-11eb-8ba8-35d4d4f49159.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> |
-  | <b> C# </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> |
-  | <b> Mobile Dev </b> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">|
-  | <b> Database </b> |<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png">|
-
-<br>
-
-## Github Stats
-
-  |Top Languages | Stats |
-  | :---: | :---: |
-  | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jraphadev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
-
-<br>
-
-## Contact me
-
-  [![Linkedin: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/)](https://www.linkedin.com/in/raphael-freitas-santos/)  [![Gmail: Raphael Freitas](https://img.shields.io/badge/-raphaelfreitas-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com)
-
-<hr>
-<br>
+</p>  
