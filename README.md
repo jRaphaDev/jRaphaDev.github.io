@@ -20,51 +20,52 @@
   
   <tr>
     <td>
-  <img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>
+      <img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>
     </td>
     <td>
-    
-  <a href="https://www.hackbrazil.com/"> <b> Harvard & MIT - HackBrazil | Duas Medidas </b> </a> <br /> 
-  <b> Colocação </b>: Semifinalista <br />
-  <b>Desafio </b>: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. <br /> 
-  <b>Solução </b>: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro. 
-  
-  </td>
+      <a href="https://www.hackbrazil.com/"> <b> Harvard & MIT - HackBrazil | Duas Medidas </b> </a> <br /> 
+      <b> Colocação </b>: Semifinalista <br />
+      <b>Desafio </b>: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. <br /> 
+      <b>Solução </b>: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro. 
+    </td>
   </tr>
+  
   <tr>
     <td>
-  <img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>
+      <img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>
     </td>
     <td>
-    
-  [**Insights - Itaú**](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) \| **Duas Medidas** <br /> **Colocação**: 2º Lugar <br /> **Desafio**: Como ajudar os MEIs a se estabilizarem no mercado de trabalho. <br /> **Solução**: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto. <br /> 
-
-  </td>
-  </tr>
-
-  <tr>
-    <td>
-  <img align="left" height="94px" width="94px" alt="CIAB Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>
+      <a href="https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html"> <b> Insights - Itaú | Duas Medidas </b> </a> <br /> 
+      <b> Colocação </b>: 2º Lugar<br />
+      <b>Desafio </b>: Como ajudar os MEIs a se estabilizarem no mercado de trabalho. <br /> 
+      <b>Solução </b>: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto.
     </td>
-    <td>
-    
-  [**CIAB - FEBRABAN**](https://www.febrabantech.com/evento/febrabantech2022) \| **PlimWallet** <br /> **Colocação**: 3º Lugar <br /> **Desafio**: Como Melhorar o onboarding de clientes nas instituições financeiras. <br />  **Solução**: App PlimWallet - Carteira digital de documentos baseado na tecnologia Blockchain.
-  </td>
-  
   </tr>
-
 
   <tr>
     <td>
-  <img align="left" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>
+      <img align="left" height="94px" width="94px" alt="Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>
     </td>
     <td>
-    
-  [**The Code Force - Santander**](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/) \| **Passless Payment** <br /> **Colocação**: Semifinalista <br /> **Desafio**: Melhorar as formas de pagamento da instituição. <br /> **Solução**: App Passless - Provedor de pagamento sem a necessidade de cartão. 
-
-  </td>
-  
+      <a href="https://www.febrabantech.com/evento/febrabantech2022"> <b> CIAB - FEBRABAN | PliwWallet </b> </a> <br /> 
+      <b> Colocação </b>: 3º Lugar <br />
+      <b>Desafio </b>: Como Melhorar o onboarding de clientes nas instituições financeiras. <br /> 
+      <b>Solução </b>: pp PlimWallet - Carteira digital de documentos baseado na tecnologia Blockchain.
+    </td>
   </tr>
+
+  <tr>
+    <td>
+      <img align="left" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>
+    </td>
+    <td>
+      <a href="https://www.conexaofintech.com.br/fintech/banco-santander-code-force/"> <b> The Code Force - Santander | Passless Payment </b></a><br /> 
+      <b>Colocação </b>: 3º Lugar <br />
+      <b>Desafio </b>: Como Melhorar Melhorar as formas de pagamento nas instituições financeiras. <br /> 
+      <b>Solução </b>: App Passless - Provedor de pagamento sem a necessidade de cartão. 
+    </td>
+  </tr>
+
 </table>
 
 <br>
