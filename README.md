@@ -99,7 +99,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=jRaphaDev.github.io)](https://github.com/jraphadev/jRaphaDev.github.io) &nbsp; 
 
-<br>
 
 <!--
 <h2>👔 Experiência de Trabalho</h2>
@@ -148,7 +147,6 @@
 
 <br>
 -->
-
 <h2>Contatos </h2>
 <p align="left">
 
