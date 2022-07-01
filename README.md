@@ -24,7 +24,10 @@
     </td>
     <td>
     
-  [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) \|  **Duas Medidas** <br /> **Colocação**: Semifinalista <br /> **Desafio**: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. <br /> **Solução**: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro. 
+  <a href="https://www.hackbrazil.com/"> <b> Harvard & MIT - HackBrazil | Duas Medidas </b> </a> <br /> 
+  <b> Colocação </b>: Semifinalista <br />
+  <b>Desafio </b>: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. <br /> 
+  <b>Solução </b>: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro. 
   
   </td>
   </tr>
