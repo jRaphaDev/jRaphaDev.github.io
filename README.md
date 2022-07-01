@@ -50,31 +50,22 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=blue-green-deployment)](https://github.com/jraphadev/blue-green-deployment) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=resilience-pattern)](https://github.com/jraphadev/resilience-pattern) &nbsp; 
 
-<br>
-
 <h3>Blockchain</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=itau-openhouse-token)](https://github.com/jraphadev/itau-openhouse-token) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=voting-blockchain-testrcp)](https://github.com/jraphadev/voting-blockchain-testrcp) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=openhouse-nft)](https://github.com/jraphadev/openhouse-nft) &nbsp; 
 
-<br>
-
 <h3>Testes</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=spock-groovy-java)](https://github.com/jraphadev/spock-groovy-java) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=acceptance-test)](https://github.com/jraphadev/acceptance-test) &nbsp; 
-
-<br>
 
 <h3>IOS</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=sorteio-frases-diarias)](https://github.com/jraphadev/sorteio-frases-diarias) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=calculo-idade-cachorro)](https://github.com/jraphadev/calculo-idade-cachorro) &nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=eggplant-brownie-ios)](https://github.com/jraphadev/eggplant-brownie-ios) &nbsp; 
-
-
-<br>
 
 <h3>Esse Site</h3>
 
