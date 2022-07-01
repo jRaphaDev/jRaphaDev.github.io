@@ -20,7 +20,7 @@
 &nbsp; [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) | **Duas Medidas** \
 &nbsp; **Colocação**: Semifinalista \
 &nbsp; **Desafio**: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. \
-&nbsp; **Solução**: App Duas Medidas - Precificar seu produto de acordo com as regiões e potencial de lucro.
+&nbsp; **Solução**: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro.
 
 [<img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) 
 &nbsp; [**Insights - Itaú**](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) | **Duas Medidas** \
