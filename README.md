@@ -101,7 +101,7 @@
 
 <br>
 
-
+<!--
 <h2>👔 Experiência de Trabalho</h2>
 
 [<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Safra" src="./assets/images/safra-logo.jpeg"/>](https://www.safra.com.br/) 
@@ -147,6 +147,7 @@
 <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=jRaphaDev&theme=nord&no-frame=true&margin-w=10&column=7" />
 
 <br>
+-->
 
 <h2>Contatos </h2>
 <p align="left">
