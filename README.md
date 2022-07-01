@@ -16,6 +16,7 @@
 
 <h2>🏆 Premiação em Hackthons</h2>
 
+
 [<img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>](https://www.hackbrazil.com/) 
 &nbsp; [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) | **Duas Medidas** \
 &nbsp; **Colocação**: Semifinalista \
