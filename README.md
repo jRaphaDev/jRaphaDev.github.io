@@ -16,11 +16,11 @@
 
 <h2>🏆 Premiação em Hackthons</h2>
 
-| Organização | Desafio e Solução |
+| &nbsp; | &nbsp; |
 | :--- | :--- |
 | [<img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>](https://www.hackbrazil.com/) | [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) \|  **Duas Medidas** <br /> **Colocação**: Semifinalista <br /> **Desafio**: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. <br /> **Solução**: App Duas Medidas - Precificar o produto com relação as regiões e potencial de lucro. |
 | [<img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) | [**Insights - Itaú**](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) \| **Duas Medidas** <br /> **Colocação**: 2º Lugar <br /> **Desafio**: Como ajudar os MEIs a se estabilizarem no mercado de trabalho. <br /> **Solução**: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto. <br />  |
-| [<img align="left" height="94px" width="94px" alt="CIAB Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>](https://www.febrabantech.com/evento/febrabantech2022) | [**CIAB FEBRABAN**](https://www.febrabantech.com/evento/febrabantech2022) \| **PlimWallet** <br /> **Colocação**: 3º Lugar <br /> **Desafio**: Como Melhorar o onboarding de clientes nas instituições financeiras. <br />  **Solução**: App PlimWallet - Carteira digital de documentos baseado na tecnologia Blockchain.
+| [<img align="left" height="94px" width="94px" alt="CIAB Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>](https://www.febrabantech.com/evento/febrabantech2022) | [**CIAB - FEBRABAN**](https://www.febrabantech.com/evento/febrabantech2022) \| **PlimWallet** <br /> **Colocação**: 3º Lugar <br /> **Desafio**: Como Melhorar o onboarding de clientes nas instituições financeiras. <br />  **Solução**: App PlimWallet - Carteira digital de documentos baseado na tecnologia Blockchain.
 | [<img align="left" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/) | [**The Code Force - Santander**](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/) \| **Passless Payment** <br /> **Colocação**: Semifinalista <br /> **Desafio**: Melhorar as formas de pagamento da instituição. <br /> **Solução**: App Passless - Provedor de pagamento sem a necessidade de cartão. |
 
 <br>
