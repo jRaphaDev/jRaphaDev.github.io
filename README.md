@@ -144,7 +144,7 @@
 
 </p>  
 
-<p align="right>
+<p align="right">
 
   <img src="./assets/images/rapha-emoji.png" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
 
