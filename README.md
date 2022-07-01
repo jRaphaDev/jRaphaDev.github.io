@@ -1,22 +1,144 @@
+
 <h1>Raphael Freitas</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350" max-width="350" width="350px" align="right" alt="Animacao Computador">
 
 <p align="left"> 
-    Atuando como líder (<a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Trident Carrer Model</a>) no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership na esteira de  desenvolvimento. 
+  Atuando como Líder (<a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Trident Carrer Model</a>) no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership em toda esteira de desenvolvimento. 
 </p>
 
 <p align="left">
-    Com mindset de startup desempenho um papel fundamental na disponibilização e experimentação de funcionalidades estratégicas de negócio com agilidade.
-    Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
+  Com mindset de startup e apaixonado por hackthons, desempenho um papel estratégico na disponibilização e experimentação de funcionalidades de negócio com agilidade.
+  Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
+</p>
+<br>
+
+<h1>🏆 Premiação em Hackthons</h1>
+
+[<img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>](https://www.hackbrazil.com/) 
+&nbsp; [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) | **Duas Medidas** \
+&nbsp; **Colocação**: Semifinalista \
+&nbsp; **Desafio**: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. \
+&nbsp; **Solução**: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto de acordo com as regiões e seu potencial de lucro.
+
+[<img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) 
+&nbsp; [**Insights - Itaú**](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) | **Duas Medidas** \
+&nbsp; **Colocação**: 2º Lugar \
+&nbsp; **Desafio**: Como ajudar os MEIs a se estabilizarem no mercado de trabalho. \
+&nbsp; **Solução**: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto.
+
+[<img align="left" height="94px" width="94px" alt="CIAB Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>](https://www.febrabantech.com/evento/febrabantech2022) 
+&nbsp; [**CIAB FEBRABAN**](https://www.febrabantech.com/evento/febrabantech2022) | **PlimWallet** \
+&nbsp; **Colocação**: 3º Lugar \
+&nbsp; **Desafio**: Como Melhorar o onboarding de clientes nas instituições financeiras. \
+&nbsp; **Solução**: App PlimWallet - Carteira digital de documentos baseado na tecnologia Blockchain.
+
+[<img align="left" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/)
+&nbsp; [**The Code Force - Santander**](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/) | **Passless Payment** \
+&nbsp; **Colocação**: Semifinalista \
+&nbsp; **Desafio**: Melhorar as formas de pagamento da instituição. \
+&nbsp; **Solução**: App Passless - Provedor de pagamento sem a necessidade de cartão e com autenticação através da biometria digital.
+
+<br>
+
+<h1>🤓 Contribuições e Aprendizados</h1>
+
+<h2>Alta Disponibilidade</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=canary-deployment)](https://github.com/jraphadev/canary-deployment) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=blue-green-deployment)](https://github.com/jraphadev/blue-green-deployment) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=resilience-pattern)](https://github.com/jraphadev/resilience-pattern) &nbsp; 
+
+<br>
+
+<h2>Blockchain</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=itau-openhouse-token)](https://github.com/jraphadev/itau-openhouse-token) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=voting-blockchain-testrcp)](https://github.com/jraphadev/voting-blockchain-testrcp) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=openhouse-nft)](https://github.com/jraphadev/openhouse-nft) &nbsp; 
+
+<br>
+
+<h2>Testes</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=spock-groovy-java)](https://github.com/jraphadev/spock-groovy-java) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=acceptance-test)](https://github.com/jraphadev/acceptance-test) &nbsp; 
+
+<br>
+
+<h2>IOS</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=sorteio-frases-diarias)](https://github.com/jraphadev/sorteio-frases-diarias) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=calculo-idade-cachorro)](https://github.com/jraphadev/calculo-idade-cachorro) &nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=eggplant-brownie-ios)](https://github.com/jraphadev/eggplant-brownie-ios) &nbsp; 
+
+
+<br>
+
+<h2>Esse Site</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=jRaphaDev.github.io)](https://github.com/jraphadev/jRaphaDev.github.io) &nbsp; 
+
+<br>
+
+
+<h1>👔 Experiência de Trabalho</h1>
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Safra" src="./assets/images/safra-logo.jpeg"/>](https://www.safra.com.br/) 
+&nbsp; **Especialista II** \
+&nbsp; [**Banco Safra**](https://www.safra.com.br/) • _Full-time_ \
+&nbsp; **Linguagens & Tecnologias**: `C#, .NET Core 3.1, Polly, NUnit, Moq, Cucumber, JMeter, Git (Git Flow), Jeckins, Sonar, Fortfy, MongoDB, Oracle, Kafka, OpenShift (PAAS). ` \
+&nbsp; **Projetos em destaque**: [Open Banking - Fase I](https://openbanking-brasil.github.io/areadesenvolvedor/#fase-1-apis-do-open-banking-brasil) e [Fase II](https://openbanking-brasil.github.io/areadesenvolvedor/#fase-2-apis-do-open-banking-brasil)
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Santander" src="./assets/images/santander-logo.jpeg"/>](https://www.santander.com.br/)
+&nbsp; **Especialista I** \
+&nbsp; [**Banco Santander**](https://www.santander.com.br/) • _Full-time_  \
+&nbsp; **Linguagens & Tecnologias**: `Java 11, Spring Boot, UniRest, Resilience4J, JUnit, Mockito, Cucumber, Fluent Assertation, Maven, TypeScript, JMeter, Git (Trunk Based Development e Git Flow), Jeckins, MongoDB, SQLServer, Kafka, OpenShift `\
+&nbsp; **Projetos em destaque**: [PIX (SX) – Canais PJ](https://www.santander.com.br/banco/sx) e [Pagamento em Lote](https://www.santander.com.br/servicos-financeiros/solucoes-de-pagamento/pagamento-a-fornecedores)
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Santander" src="./assets/images/itau-logo.jpeg"/>](https://www.itau.com.br/)
+&nbsp; **Arquiteto de Soluções** \
+&nbsp; [**Banco Itaú**](https://www.itau.com.br/) • _Full-time_  \
+&nbsp; **Linguagens & Tecnologias**: `Java 8, Spring Boot, C#, .NET Core 3.1, Piloto API Moedas PAAS`\
+&nbsp; **Projetos em destaque**: [Riscos e Capital](#) e [Prevenção a Fraudes e Lavagem de Dinheiro](#)
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Santander" src="./assets/images/netshoes-logo.jpeg"/>](https://www.netshoes.com.br/)
+&nbsp; **Desenvolvedor Full Stack Sênior | Tech Lead** \
+&nbsp; [**Netshoes**](https://www.netshoes.com.br/) • _Full-time_  \
+&nbsp; **Linguagens & Tecnologias**: `Java 8, Spring Boot, Spock, JUnit, Mockito, Maven, TypeScript, JMeter, Git (Trunk Based Development), Jeckins, MongoDB, Cassandra, Kafka `\
+&nbsp; **Projetos em destaque**: [Home da Copa 2018 - Teste A/B](#) e [Continuar Comprando - Teste A/B](#)
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Santander" src="./assets/images/acc-logo.jpeg"/>](https://www.accenture.com/)
+&nbsp; **Especialista | Tech Lead** \
+&nbsp; [**Accenture - Santander**](https://www.accenture.com/) • _Full-time_  \
+&nbsp; **Linguagens & Tecnologias**: `Java 8, Spring Boot, UniRest, Resilience4J, JUnit, Mockito, Cucumber, AssertJ Fluent Assertation, Gson, Java Money, Maven e JMeter (Stress Testing), Javascript, Typescript e PL/SQL,  NodeJS, Angular, Nest.JS, JestJS, Seleniume, Jasmine, D3, RxJS, NGRX, Git (Git Flow), Jeckins, Sonar, Fortfy, Oracle, SQLServer, OpenShift (PAAS)`\
+&nbsp; **Projetos em destaque**: [Novo Portal de Negócios Internacionais](https://www.santander.com.br/comercio-exterior-e-cambio/portal-de-negocios-internacionais) e [Reestruturação da Arquitetura da Tesouraria](#)
+
+
+[<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Santander" src="./assets/images/peterson-control-logo.png"/>](https://www.petersoncontrolunion.com/)
+&nbsp; **Desenvolvedor Full Stack** \
+&nbsp; [**Peterson | Control Union**](https://www.petersoncontrolunion.com/) • _Desenvolvedor Full Stack_  \
+&nbsp; **Linguagens & Tecnologias**: `AspNet 3.0, Visual Basic, Java 8, AngularJS, Angular, Grunt, Gulp, Spring Boot, JPA, Hibernate, Rest Assured, JUnit, Mockito, Cucumber, Maven e JMeter (Stress Testing), Mercurial e Git (Git Flow), SQLServer, H2Console. `\
+&nbsp; **Projetos em destaque**: [Ports Division](https://commoditylogistics.onepeterson.com/en) e [Certifications](https://certifications.controlunion.com/en)
+
+<br>
+
+<h1> Github Profile Trophy </h1>
+<img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=jRaphaDev&theme=nord&no-frame=true&margin-w=10&column=7" />
+
+<br>
+
+<h1>Contatos </h1>
+<p align="left">
+
+💌 Caso queira entrar em contato ou me seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
 
 </p>
 
 <p align="left">
-  💌 Caso queira entrar em contato ou me seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
-</p>
 
-<p align="left">
+  <a href="https://github.com/jRaphaDev" alt="Github">
+  <img src="https://badgen.net/badge/icon/@JRaphaDev?icon=github&label" /> </a>
 
   <a href="https://twitter.com/jraphadeveloper" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
@@ -27,6 +149,11 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raphael.freitas.pessoal@gmail.com" /></a>
 
+
 </p>  
 
-<img src="./static/mimoje.png" align="right" min-width="100px" max-width="100px" width="100px" alt="Mimoje Raphael">
+<p align="right>
+
+  <img src="./assets/images/rapha-emoji.png" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
+
+</p>
