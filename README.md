@@ -20,7 +20,7 @@
   
   <tr>
     <td>
-      <img align="left" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>
+      <img align="center" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/harvard-logo.png"/>
     </td>
     <td>
       <a href="https://www.hackbrazil.com/"> <b> Harvard & MIT - HackBrazil | Duas Medidas </b> </a> <br /> 
@@ -32,7 +32,7 @@
   
   <tr>
     <td>
-      <img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>
+      <img align="center" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>
     </td>
     <td>
       <a href="https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html"> <b> Insights - Itaú | Duas Medidas </b> </a> <br /> 
@@ -44,7 +44,7 @@
 
   <tr>
     <td>
-      <img align="left" height="94px" width="94px" alt="Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>
+      <img align="center" height="94px" width="94px" alt="Febraban Logo" src="./assets/images/febraban-logo.jpeg"/>
     </td>
     <td>
       <a href="https://www.febrabantech.com/evento/febrabantech2022"> <b> CIAB - FEBRABAN | PliwWallet </b> </a> <br /> 
@@ -56,7 +56,7 @@
 
   <tr>
     <td>
-      <img align="left" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>
+      <img align="center" height="96px" width="94px" alt="Code Force Santander Logo" src="./assets/images/code-force-logo.png"/>
     </td>
     <td>
       <a href="https://www.conexaofintech.com.br/fintech/banco-santander-code-force/"> <b> The Code Force - Santander | Passless Payment </b></a><br /> 
