@@ -74,7 +74,7 @@
 <br>
 
 
-<h1>👔 Experiência de Trabalho</h1>
+<h2>👔 Experiência de Trabalho</h2>
 
 [<img align="left" height="94px" width="94px" max-width="94px" max-height="94px" alt="Safra" src="./assets/images/safra-logo.jpeg"/>](https://www.safra.com.br/) 
 &nbsp; **Especialista II** \
@@ -115,12 +115,12 @@
 
 <br>
 
-<h1> Github Profile Trophy </h1>
+<h2> Github Profile Trophy </h2>
 <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=jRaphaDev&theme=nord&no-frame=true&margin-w=10&column=7" />
 
 <br>
 
-<h1>Contatos </h1>
+<h2>Contatos </h2>
 <p align="left">
 
 💌 Caso queira entrar em contato ou me seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
