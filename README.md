@@ -11,6 +11,7 @@
   Com mindset de startup e apaixonado por hackthons, desempenho um papel estratégico na disponibilização e experimentação de funcionalidades de negócio com agilidade.
   Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 </p>
+
 <br>
 
 <h1>🏆 Premiação em Hackthons</h1>
@@ -19,7 +20,7 @@
 &nbsp; [**Harvard & MIT - HackBrazil**](https://www.hackbrazil.com/) | **Duas Medidas** \
 &nbsp; **Colocação**: Semifinalista \
 &nbsp; **Desafio**: Resolver grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. \
-&nbsp; **Solução**: App Duas Medidas - Auxília o(a) empreendedor(a) precificar seu produto de acordo com as regiões e seu potencial de lucro.
+&nbsp; **Solução**: App Duas Medidas - Precificar seu produto de acordo com as regiões e seu potencial de lucro.
 
 [<img align="left" height="94px" width="94px" alt="Cubo Itau Logo" src="./assets/images/cubo-logo.png"/>](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) 
 &nbsp; [**Insights - Itaú**](https://revistapegn.globo.com/Startups/noticia/2018/08/3-startups-com-solucoes-inovadoras-para-os-meis.html) | **Duas Medidas** \
@@ -37,9 +38,8 @@
 &nbsp; [**The Code Force - Santander**](https://www.conexaofintech.com.br/fintech/banco-santander-code-force/) | **Passless Payment** \
 &nbsp; **Colocação**: Semifinalista \
 &nbsp; **Desafio**: Melhorar as formas de pagamento da instituição. \
-&nbsp; **Solução**: App Passless - Provedor de pagamento sem a necessidade de cartão e com autenticação através da biometria digital.
+&nbsp; **Solução**: App Passless - Provedor de pagamento sem a necessidade de cartão.
 
-<br>
 
 <h1>🤓 Contribuições e Aprendizados</h1>
 
