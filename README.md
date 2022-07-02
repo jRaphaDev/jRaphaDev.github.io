@@ -1,7 +1,7 @@
 
 <h1>Raphael Freitas</h1>
 
-<img src="./assets/images/rapha-logo.jpeg" min-width="280px" max-width="280px" width="280px" align="right" style="border-radius: 50%" alt="">
+<img src="./assets/images/rapha-logo.jpeg" min-width="260px" max-width="260px" width="260px" align="right" style="border-radius: 50%" alt="">
 
 <p align="left"> 
   Atuando como Líder (<a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Trident Carrer Model</a>) no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership em toda esteira de desenvolvimento. 
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>🏆 Premiação em Hackthons</h2>
+<h2>🏆 Premiações em Hackthons</h2>
 
 <table>
   
