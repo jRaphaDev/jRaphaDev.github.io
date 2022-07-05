@@ -89,6 +89,7 @@
 [![Spock Groovy Java](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=spock-groovy-java)](https://github.com/jraphadev/spock-groovy-java) &nbsp; 
 [![Acceptance Test](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=acceptance-test)](https://github.com/jraphadev/acceptance-test) &nbsp; 
 [![A/B Test React](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=ab-test-react)](https://github.com/jraphadev/ab-test-react) &nbsp; 
+[![Automation A/B Test Gauge Taiko](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=acceptance-browser-automation-test)](https://github.com/jraphadev/acceptance-browser-automation-test) &nbsp; 
 
 <h3>IOS</h3>
 
