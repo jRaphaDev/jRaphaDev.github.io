@@ -74,15 +74,15 @@
 
 <h3>Alta Disponibilidade</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=canary-deployment)](https://github.com/jraphadev/canary-deployment) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=blue-green-deployment)](https://github.com/jraphadev/blue-green-deployment) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=resilience-pattern)](https://github.com/jraphadev/resilience-pattern) &nbsp; 
+[![Canary Deployment](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=canary-deployment)](https://github.com/jraphadev/canary-deployment) &nbsp; 
+[![Blue\Green Deployment](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=blue-green-deployment)](https://github.com/jraphadev/blue-green-deployment) &nbsp; 
+[![Pattern Resilience](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=resilience-pattern)](https://github.com/jraphadev/resilience-pattern) &nbsp; 
 
 <h3>Blockchain</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=itau-openhouse-token)](https://github.com/jraphadev/itau-openhouse-token) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=voting-blockchain-testrcp)](https://github.com/jraphadev/voting-blockchain-testrcp) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=openhouse-nft)](https://github.com/jraphadev/openhouse-nft) &nbsp; 
+[![Itau OpenHouse](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=itau-openhouse-token)](https://github.com/jraphadev/itau-openhouse-token) &nbsp; 
+[![Sistema Votos Blockchain](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=voting-blockchain-testrcp)](https://github.com/jraphadev/voting-blockchain-testrcp) &nbsp; 
+[![Openhout NFT](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=openhouse-nft)](https://github.com/jraphadev/openhouse-nft) &nbsp; 
 
 <h3>Testes</h3>
 
@@ -92,13 +92,13 @@
 
 <h3>IOS</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=sorteio-frases-diarias)](https://github.com/jraphadev/sorteio-frases-diarias) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=calculo-idade-cachorro)](https://github.com/jraphadev/calculo-idade-cachorro) &nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=eggplant-brownie-ios)](https://github.com/jraphadev/eggplant-brownie-ios) &nbsp; 
+[![App Sorteio Frases](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=sorteio-frases-diarias)](https://github.com/jraphadev/sorteio-frases-diarias) &nbsp; 
+[![App Calcula Idade](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=calculo-idade-cachorro)](https://github.com/jraphadev/calculo-idade-cachorro) &nbsp; 
+[![App Eggplant](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=eggplant-brownie-ios)](https://github.com/jraphadev/eggplant-brownie-ios) &nbsp; 
 
 <h3>Esse Site</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=jRaphaDev.github.io)](https://github.com/jraphadev/jRaphaDev.github.io) &nbsp; 
+[![Este Site](https://github-readme-stats.vercel.app/api/pin/?username=jraphadev&repo=jRaphaDev.github.io)](https://github.com/jraphadev/jRaphaDev.github.io) &nbsp; 
 
 
 <!--
